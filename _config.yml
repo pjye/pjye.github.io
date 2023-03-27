@@ -3,7 +3,7 @@ subtitle: ''
 description: ''
 keywords: null
 author: John Doe
-language: en
+language: zh-CN
 timezone: ''
 url: 'http://yoursite.com'
 root: /
@@ -55,7 +55,7 @@ pagination_dir: page
 include: null
 exclude: null
 ignore: null
-theme: icarus
+theme: butterfly
 deploy:
   type: git
   repo: https://github.com/pjye/pjye.github.io
