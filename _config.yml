@@ -59,4 +59,4 @@ theme: butterfly
 deploy:
   type: git
   repo: https://github.com/pjye/pjye.github.io
-  branch: master
+  branch: gh-pages
