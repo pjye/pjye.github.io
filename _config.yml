@@ -60,3 +60,9 @@ deploy:
   type: git
   repo: https://github.com/pjye/pjye.github.io
   branch: gh-pages
+
+search:
+  path: search.xml
+  field: post
+  content: true
+  template:
