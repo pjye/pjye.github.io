@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogs on Hugo ʕ•ᴥ•ʔ Bear Blog</title><link>https://pjye.github.io/blog/</link><description>Recent content in Blogs on Hugo ʕ•ᴥ•ʔ Bear Blog</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><copyright>Copyright © 2020, Jane Doe.</copyright><lastBuildDate>Tue, 18 Apr 2023 23:23:03 +0800</lastBuildDate><atom:link href="https://pjye.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>GitHub Actions入门</title><link>https://pjye.github.io/github-actions%E5%85%A5%E9%97%A8/</link><pubDate>Tue, 18 Apr 2023 23:23:03 +0800</pubDate><guid>https://pjye.github.io/github-actions%E5%85%A5%E9%97%A8/</guid><description>1. 先定一个小目标 假如有以下四个仓库：
+git@github.com:somenzz/push_blog：写博客的项目仓库，里面有用于生成博客的 md 文件，和生成静态博客的脚手架，比如 VuePress，hexo 等，该仓库可以私有。 git@github.com:somenzz/http://somenzz.github.io：存放博客的静态资源文件，用于 GitHub Pages 展示博客，必须开源。 git@gitee.com/somenzz/somenzz：存放博客的静态资源文件，用于 Gitee Pages 展示博客，必须开源。 ip 地址：http://xxx.xxx.xxx.xxx，或者域名 http://somenzz.cn，路径 /xxxx/public/，是自己购买的服务器，用于存放静态博客资源文件。 现在的目标就是，写好一篇文章，向仓库 1 推送之后，仓库 2、3、4 自动更新静态资源文件。当然了，你也可以根据自己情况，选择性的更新 2、3、4 中的一个或多个，只需要将对应的步骤从 GitHub Actions 配置中注释或删除即可。
+2. 理解 GitHub Actions 这里说下我对 GitHub Actions 的理解，你提交到仓库 1 后，GitHub 会监控到，然后分配一台虚拟机先将你的项目 checkout 过去，然后按照你指定的 step 顺序执行定义好的 action，这些 action 就包括 npm run build 生成静态文件，push 到你指定的仓库等动作。
+这就不可避免的涉及一些访问权限的控制，你要向 GitHub 证明你对这些仓库有控制权限，有些操作，还需要你提供 RSA 的私钥，登录的口令，当然了，这些口令都是加密存放的，不会泄漏，可放心使用。
+为了实现上面的小目标，我们要让 GitHub 替我们做的事情如下：
+编译项目，生成静态文件。也就是对仓库 1: git@github.com:somenzz/push_blog，执行 npm run build 生成博客的静态资源。 将静态资源 push 到 GitHub，也就是 push 到仓库 2: git@github.</description></item><item><title>Hello World</title><link>https://pjye.github.io/hello-world/</link><pubDate>Tue, 18 Apr 2023 00:37:25 +0800</pubDate><guid>https://pjye.github.io/hello-world/</guid><description>This is a page about »Hello World«.
+Adding / editing content Index-Page The contents of the index-page may be changed by editing your content/_index.md-file.
+Page You can add a new page via running
+hugo new my-new-page.md
+Blog-Post You can add a new blog-post via running
+hugo new blog/my-new-post.md</description></item></channel></rss>
