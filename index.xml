@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>枫叶的博客 ʕ•ᴥ•ʔ</title><link>https://pjye.github.io/</link><description>Recent content on 枫叶的博客 ʕ•ᴥ•ʔ</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>Copyright © 2020, 枫叶</copyright><lastBuildDate>Fri, 21 Apr 2023 00:18:48 +0800</lastBuildDate><atom:link href="https://pjye.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>当你老了</title><link>https://pjye.github.io/%E5%BD%93%E4%BD%A0%E8%80%81%E4%BA%86/</link><pubDate>Wed, 15 Nov 2023 00:56:39 +0800</pubDate><guid>https://pjye.github.io/%E5%BD%93%E4%BD%A0%E8%80%81%E4%BA%86/</guid><description>叶芝 袁可嘉译
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>枫叶的博客 ʕ•ᴥ•ʔ</title><link>https://pjye.github.io/</link><description>Recent content on 枫叶的博客 ʕ•ᴥ•ʔ</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>Copyright © 2020, 枫叶</copyright><lastBuildDate>Fri, 21 Apr 2023 00:18:48 +0800</lastBuildDate><atom:link href="https://pjye.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>当你老了</title><link>https://pjye.github.io/poetry/%E5%BD%93%E4%BD%A0%E8%80%81%E4%BA%86/</link><pubDate>Wed, 15 Nov 2023 00:56:39 +0800</pubDate><guid>https://pjye.github.io/poetry/%E5%BD%93%E4%BD%A0%E8%80%81%E4%BA%86/</guid><description>叶芝 袁可嘉译
 当你老了，头白了，睡意昏沉，
 炉火旁打盹，请取下这部诗歌，
 慢慢读，回想你过去眼神的柔和，
@@ -10,7 +10,7 @@
 垂下头来，在红光闪耀的炉子旁，
 凄然地轻轻诉说那爱情的消逝，
 在头顶的山上它缓缓踱着步子，
-在一群星星中间隐藏着脸庞。</description></item><item><title>欢乐长隆之旅</title><link>https://pjye.github.io/%E6%AC%A2%E4%B9%90%E9%95%BF%E9%9A%86%E4%B9%8B%E6%97%85/</link><pubDate>Fri, 10 Nov 2023 00:18:13 +0800</pubDate><guid>https://pjye.github.io/%E6%AC%A2%E4%B9%90%E9%95%BF%E9%9A%86%E4%B9%8B%E6%97%85/</guid><description> 欢乐长隆之旅🥰 2023年10月28日，万圣节前我们共同度过的欢乐长隆之旅，也一起听听周杰伦的《甜甜的》~</description></item><item><title>公园里</title><link>https://pjye.github.io/%E5%85%AC%E5%9B%AD%E9%87%8C/</link><pubDate>Sun, 05 Nov 2023 23:43:02 +0800</pubDate><guid>https://pjye.github.io/%E5%85%AC%E5%9B%AD%E9%87%8C/</guid><description>雅克·普列维尔
+在一群星星中间隐藏着脸庞。</description></item><item><title>欢乐长隆之旅</title><link>https://pjye.github.io/%E6%AC%A2%E4%B9%90%E9%95%BF%E9%9A%86%E4%B9%8B%E6%97%85/</link><pubDate>Fri, 10 Nov 2023 00:18:13 +0800</pubDate><guid>https://pjye.github.io/%E6%AC%A2%E4%B9%90%E9%95%BF%E9%9A%86%E4%B9%8B%E6%97%85/</guid><description> 欢乐长隆之旅🥰 2023年10月28日，万圣节前我们共同度过的欢乐长隆之旅，也一起听听周杰伦的《甜甜的》~</description></item><item><title>公园里</title><link>https://pjye.github.io/poetry/%E5%85%AC%E5%9B%AD%E9%87%8C/</link><pubDate>Sun, 05 Nov 2023 23:43:02 +0800</pubDate><guid>https://pjye.github.io/poetry/%E5%85%AC%E5%9B%AD%E9%87%8C/</guid><description>雅克·普列维尔
 高行健 译
 一千年一万年
 也难以诉说尽
@@ -23,7 +23,7 @@
 巴黎是地上一座城
 地球是天上一颗星</description></item><item><title>Unix哲学</title><link>https://pjye.github.io/unix%E5%93%B2%E5%AD%A6/</link><pubDate>Sat, 04 Nov 2023 10:04:19 +0800</pubDate><guid>https://pjye.github.io/unix%E5%93%B2%E5%AD%A6/</guid><description>摘自《UNIX编程艺术》：
 Unix哲学中更多的内容不是这些先哲们口头表述出来的，而是由他们所作的一切和Unix本身所作出的榜样体现出来的。从整体上来说，可以概括为以下几点：
-模块原则：使用简洁的接口拼合简单的部件。 清晰原则：清晰胜于机巧。 组合原则：设计时考虑拼接组合。 分离原则：策略同机制分离，接口同引擎分离。 简洁原则：设计要简洁，复杂度能低则低。 吝啬原则：除非确无它法，不要编写庞大的程序。 透明性原则：设计要可见，以便审查和调试。 健壮原则：健壮源于透明与简洁。 表示原则：把知识叠入数据以求逻辑质朴而健壮。 通俗原则：接口设计避免标新立异。 缄默原则：如果一个程序没什么好说的，就沉默。 补救原则：出现异常时，马上退出并给出足够错误信息。 经济原则：宁花机器一分，不花程序员一秒。 生成原则：避免手工hack，尽量编写程序去生成程序。 优化原则：雕琢前先要有原型，跑之前先学会走。 多样原则：决不相信所谓“不二法门”的断言。 扩展原则：设计着眼未来，未来总比预想来得快。</description></item><item><title>红叶</title><link>https://pjye.github.io/%E7%BA%A2%E5%8F%B6/</link><pubDate>Sat, 04 Nov 2023 09:59:31 +0800</pubDate><guid>https://pjye.github.io/%E7%BA%A2%E5%8F%B6/</guid><description>沙白
+模块原则：使用简洁的接口拼合简单的部件。 清晰原则：清晰胜于机巧。 组合原则：设计时考虑拼接组合。 分离原则：策略同机制分离，接口同引擎分离。 简洁原则：设计要简洁，复杂度能低则低。 吝啬原则：除非确无它法，不要编写庞大的程序。 透明性原则：设计要可见，以便审查和调试。 健壮原则：健壮源于透明与简洁。 表示原则：把知识叠入数据以求逻辑质朴而健壮。 通俗原则：接口设计避免标新立异。 缄默原则：如果一个程序没什么好说的，就沉默。 补救原则：出现异常时，马上退出并给出足够错误信息。 经济原则：宁花机器一分，不花程序员一秒。 生成原则：避免手工hack，尽量编写程序去生成程序。 优化原则：雕琢前先要有原型，跑之前先学会走。 多样原则：决不相信所谓“不二法门”的断言。 扩展原则：设计着眼未来，未来总比预想来得快。</description></item><item><title>红叶</title><link>https://pjye.github.io/poetry/%E7%BA%A2%E5%8F%B6/</link><pubDate>Sat, 04 Nov 2023 09:59:31 +0800</pubDate><guid>https://pjye.github.io/poetry/%E7%BA%A2%E5%8F%B6/</guid><description>沙白
 风,把红叶
 掷到脚跟前。
 噢，
@@ -73,7 +73,7 @@ Optimism is a happiness magnet. If you stay positive, good things and good peopl
 人们经常高估一天能做的事，经常低估一年能做的事。
 ——阮一峰
 20190426
-Don&amp;rsquo;t underestimate the value of doing nothing, of just going along, listening to all the things you can&amp;rsquo;t hear, and not bothering.</description></item><item><title>七月不远——给青海湖，请熄灭我的爱情</title><link>https://pjye.github.io/%E4%B8%83%E6%9C%88%E4%B8%8D%E8%BF%9C%E7%BB%99%E9%9D%92%E6%B5%B7%E6%B9%96%E8%AF%B7%E7%86%84%E7%81%AD%E6%88%91%E7%9A%84%E7%88%B1%E6%83%85/</link><pubDate>Sat, 09 Sep 2023 12:04:19 +0800</pubDate><guid>https://pjye.github.io/%E4%B8%83%E6%9C%88%E4%B8%8D%E8%BF%9C%E7%BB%99%E9%9D%92%E6%B5%B7%E6%B9%96%E8%AF%B7%E7%86%84%E7%81%AD%E6%88%91%E7%9A%84%E7%88%B1%E6%83%85/</guid><description>海子
+Don&amp;rsquo;t underestimate the value of doing nothing, of just going along, listening to all the things you can&amp;rsquo;t hear, and not bothering.</description></item><item><title>七月不远——给青海湖，请熄灭我的爱情</title><link>https://pjye.github.io/poetry/%E4%B8%83%E6%9C%88%E4%B8%8D%E8%BF%9C/</link><pubDate>Sat, 09 Sep 2023 12:04:19 +0800</pubDate><guid>https://pjye.github.io/poetry/%E4%B8%83%E6%9C%88%E4%B8%8D%E8%BF%9C/</guid><description>海子
 七月不远
 性别的诞生不远
 爱情不远——马鼻子下
@@ -99,7 +99,7 @@ Don&amp;rsquo;t underestimate the value of doing nothing, of just going along, l
 只有五月生命的鸟群早已飞去
 只有饮我宝石的头一只鸟早已飞去
 只剩下青海湖，这宝石的尸体
-暮色苍茫的水面</description></item><item><title>行者</title><link>https://pjye.github.io/%E8%A1%8C%E8%80%85/</link><pubDate>Tue, 22 Aug 2023 22:13:11 +0800</pubDate><guid>https://pjye.github.io/%E8%A1%8C%E8%80%85/</guid><description>扎西拉姆·多多
+暮色苍茫的水面</description></item><item><title>行者</title><link>https://pjye.github.io/poetry/%E8%A1%8C%E8%80%85/</link><pubDate>Tue, 22 Aug 2023 22:13:11 +0800</pubDate><guid>https://pjye.github.io/poetry/%E8%A1%8C%E8%80%85/</guid><description>扎西拉姆·多多
 当你在穿山越岭的另一边
 我在孤独的路上没有尽头
 你的表情总是很温暖
@@ -120,7 +120,7 @@ Don&amp;rsquo;t underestimate the value of doing nothing, of just going along, l
 不需要被仰望
 他更愿意给你一个新高度
 去自由而庄严地
-回身俯看</description></item><item><title>我曾七次鄙视自己的灵魂</title><link>https://pjye.github.io/%E6%88%91%E6%9B%BE%E4%B8%83%E6%AC%A1%E9%84%99%E8%A7%86%E8%87%AA%E5%B7%B1%E7%9A%84%E7%81%B5%E9%AD%82/</link><pubDate>Sat, 22 Jul 2023 09:52:12 +0800</pubDate><guid>https://pjye.github.io/%E6%88%91%E6%9B%BE%E4%B8%83%E6%AC%A1%E9%84%99%E8%A7%86%E8%87%AA%E5%B7%B1%E7%9A%84%E7%81%B5%E9%AD%82/</guid><description>纪伯伦
+回身俯看</description></item><item><title>我曾七次鄙视自己的灵魂</title><link>https://pjye.github.io/poetry/%E6%88%91%E6%9B%BE%E4%B8%83%E6%AC%A1%E9%84%99%E8%A7%86%E8%87%AA%E5%B7%B1%E7%9A%84%E7%81%B5%E9%AD%82/</link><pubDate>Sat, 22 Jul 2023 09:52:12 +0800</pubDate><guid>https://pjye.github.io/poetry/%E6%88%91%E6%9B%BE%E4%B8%83%E6%AC%A1%E9%84%99%E8%A7%86%E8%87%AA%E5%B7%B1%E7%9A%84%E7%81%B5%E9%AD%82/</guid><description>纪伯伦
 第一次，当它本可进取时，却故作谦卑；
 第二次，当它在空虚时，用爱欲来填充；
 第三次，在困难和容易之间，它选择了容易；
@@ -135,7 +135,7 @@ Don&amp;rsquo;t underestimate the value of doing nothing, of just going along, l
 读古人的原著：
 你要常读古书，读古人的原著；而复述他们的话，没有多大意义。 无论什么时代，都有两种不同的文艺同时存在。一种是真实的，另一种只不过是貌似的东西。前者成为不朽的文艺，其作者纯粹为文学而写作，他们的创作严肃静默，然而进程非常缓慢，在欧洲1世纪中所产生的这样的作品不过半打。另一类作者，文章是他们的摇钱树，但他们能狂奔疾驰，受旁观者的欢呼鼓噪，每年送出无数的作品。
 重要书籍再读一遍：
-温习乃研究之母。任何重要的书都要立即再读一遍，一则因再读时更能了解其所述各种事情之间的联系——知道其末尾，才能彻底理解其开端；再则读第二次就犹如在不同的光线中看一件东西一般，在书中各处都会有与读第一次时不同的情状和心境，因此所得的印象也就不同。</description></item><item><title>未选择的路</title><link>https://pjye.github.io/%E6%9C%AA%E9%80%89%E6%8B%A9%E7%9A%84%E8%B7%AF/</link><pubDate>Sat, 24 Jun 2023 16:37:30 +0800</pubDate><guid>https://pjye.github.io/%E6%9C%AA%E9%80%89%E6%8B%A9%E7%9A%84%E8%B7%AF/</guid><description>罗伯特·弗罗斯特
+温习乃研究之母。任何重要的书都要立即再读一遍，一则因再读时更能了解其所述各种事情之间的联系——知道其末尾，才能彻底理解其开端；再则读第二次就犹如在不同的光线中看一件东西一般，在书中各处都会有与读第一次时不同的情状和心境，因此所得的印象也就不同。</description></item><item><title>未选择的路</title><link>https://pjye.github.io/poetry/%E6%9C%AA%E9%80%89%E6%8B%A9%E7%9A%84%E8%B7%AF/</link><pubDate>Sat, 24 Jun 2023 16:37:30 +0800</pubDate><guid>https://pjye.github.io/poetry/%E6%9C%AA%E9%80%89%E6%8B%A9%E7%9A%84%E8%B7%AF/</guid><description>罗伯特·弗罗斯特
 黄色的树林里分出两条路，
 可惜我不能同时去涉足，
 我在那路口久久伫立，
@@ -150,7 +150,7 @@ Don&amp;rsquo;t underestimate the value of doing nothing, of just going along, l
 我将轻声叹息将往事回顾：
 一片树林里分出两条路——
 而我选择了人迹更少的一条，
-从此决定了我一生的道路。</description></item><item><title>枫树和七颗星星</title><link>https://pjye.github.io/%E6%9E%AB%E6%A0%91%E5%92%8C%E4%B8%83%E9%A2%97%E6%98%9F%E6%98%9F/</link><pubDate>Sat, 24 Jun 2023 16:35:21 +0800</pubDate><guid>https://pjye.github.io/%E6%9E%AB%E6%A0%91%E5%92%8C%E4%B8%83%E9%A2%97%E6%98%9F%E6%98%9F/</guid><description>北岛
+从此决定了我一生的道路。</description></item><item><title>枫树和七颗星星</title><link>https://pjye.github.io/poetry/%E6%9E%AB%E6%A0%91%E5%92%8C%E4%B8%83%E9%A2%97%E6%98%9F%E6%98%9F/</link><pubDate>Sat, 24 Jun 2023 16:35:21 +0800</pubDate><guid>https://pjye.github.io/poetry/%E6%9E%AB%E6%A0%91%E5%92%8C%E4%B8%83%E9%A2%97%E6%98%9F%E6%98%9F/</guid><description>北岛
 世界小得象一条街的布景
 我们相遇了，你点点头
 省略了所有的往事
@@ -169,7 +169,7 @@ Don&amp;rsquo;t underestimate the value of doing nothing, of just going along, l
 我多想看看你的微笑
 宽恕而冷漠
 还有那平静的目光
-路灯就要亮了</description></item><item><title>和她在一起</title><link>https://pjye.github.io/%E5%92%8C%E5%A5%B9%E5%9C%A8%E4%B8%80%E8%B5%B7/</link><pubDate>Mon, 12 Jun 2023 00:31:28 +0800</pubDate><guid>https://pjye.github.io/%E5%92%8C%E5%A5%B9%E5%9C%A8%E4%B8%80%E8%B5%B7/</guid><description>聂鲁达
+路灯就要亮了</description></item><item><title>和她在一起</title><link>https://pjye.github.io/poetry/%E5%92%8C%E5%A5%B9%E5%9C%A8%E4%B8%80%E8%B5%B7/</link><pubDate>Mon, 12 Jun 2023 00:31:28 +0800</pubDate><guid>https://pjye.github.io/poetry/%E5%92%8C%E5%A5%B9%E5%9C%A8%E4%B8%80%E8%B5%B7/</guid><description>聂鲁达
 需要用我们的手，
 去冲刷，去放火，
 看这险恶的世道是否敢
@@ -192,7 +192,7 @@ Don&amp;rsquo;t underestimate the value of doing nothing, of just going along, l
 去冲刷，去放火，
 看这险恶的世道是否敢
 与这坚定的四只手和四只眼挑战。
-陈光孚 译</description></item><item><title>过程</title><link>https://pjye.github.io/%E8%BF%87%E7%A8%8B/</link><pubDate>Mon, 12 Jun 2023 00:21:18 +0800</pubDate><guid>https://pjye.github.io/%E8%BF%87%E7%A8%8B/</guid><description>林白
+陈光孚 译</description></item><item><title>过程</title><link>https://pjye.github.io/poetry/%E8%BF%87%E7%A8%8B/</link><pubDate>Mon, 12 Jun 2023 00:21:18 +0800</pubDate><guid>https://pjye.github.io/poetry/%E8%BF%87%E7%A8%8B/</guid><description>林白
 “六月里青草盛开 处处芬芳”，此刻正是六月。四季变换，春夏秋冬，就是过程，就是我们的人生。
 一月你还没有出现
 二月你睡在隔壁
@@ -221,7 +221,7 @@ Don&amp;rsquo;t underestimate the value of doing nothing, of just going along, l
 明子小小声说：“要——！”
 “快点划！”
 英子跳到中舱，两只桨飞快地划起来，划进了芦花荡。
-芦花才吐新穗。紫灰色的芦穗，发着银光，软软的，滑溜溜的，像一串丝线。有的地方结了蒲棒，通红的，像一支一支小蜡烛。青浮萍，紫浮萍。长脚蚊子，水蜘蛛。野菱角开着四瓣的小白花。惊起一只青桩（一种水鸟），擦着芦穗，扑鲁鲁鲁飞远了。</description></item><item><title>雨</title><link>https://pjye.github.io/%E9%9B%A8/</link><pubDate>Wed, 24 May 2023 00:30:54 +0800</pubDate><guid>https://pjye.github.io/%E9%9B%A8/</guid><description>作者：博尔赫斯
+芦花才吐新穗。紫灰色的芦穗，发着银光，软软的，滑溜溜的，像一串丝线。有的地方结了蒲棒，通红的，像一支一支小蜡烛。青浮萍，紫浮萍。长脚蚊子，水蜘蛛。野菱角开着四瓣的小白花。惊起一只青桩（一种水鸟），擦着芦穗，扑鲁鲁鲁飞远了。</description></item><item><title>雨</title><link>https://pjye.github.io/poetry/%E9%9B%A8/</link><pubDate>Wed, 24 May 2023 00:30:54 +0800</pubDate><guid>https://pjye.github.io/poetry/%E9%9B%A8/</guid><description>作者：博尔赫斯
 陈光孚 译
 黄昏突然明亮，
 只因下起细雨，
@@ -242,7 +242,7 @@ Don&amp;rsquo;t underestimate the value of doing nothing, of just going along, l
 这无疑是一个悲伤的故事。因此，《银河护卫队3》一开始，星爵便日日借酒浇愁。新的危机又来临，平静的生活被打破，在执行任务拯救浣熊、打败反派的过程中，星爵又与卡魔拉并肩作战。在这个过程中，卡魔拉又逐渐认识了星爵是怎么的一个人：他为伙伴朋友们奋不顾身，他保护弱者，以机智勇敢打败敌人。也许卡魔拉逐渐了解了另一个时空的她与星爵之间的爱情，他们之间曾经的并肩作战、相濡以沫。可是，那毕竟是另一个时空的她，而不是当下的她的经历。
 电影结尾，星爵回到地球与外公同住，卡魔拉则回到劫掠者跟她的伙伴们在一起。星爵与卡魔拉终究没有在一起。很难得电影没有强行让男女主角在一起，这才是真实的人生吧。也许，人生永远是不完满的，而这才是人生的常态。
 哲人说：人不能两次踏入同一条河流。现在的我不是过去的我。我们无法改变时空，无法改变过去，无法让一切恢复如初。但就算如《复联4》那般，超级英雄可以改变过去改变结局，也不免留有遗憾。如同星爵与卡魔拉的爱情，过去了就是过去了。因此，人生并没有什么完满的东西。
-所以正如老生常谈：我们能做的，就是把握当下。正如《被讨厌的勇气》所说的，如果把人生比作爬山的过程，我们除了一路攀登前行，也不应错过路上的风景，山下的乔木、山腰的灌木、往上的草甸，还有蓝天和新鲜的空气，不然只盯着山顶，当我们终于到达时，才发现上面是冰天雪地、荒无人烟。当下的即是最好。把握好当下，所有的遗憾与缺失，将成为人生历程中的风景。</description></item><item><title>寻李白</title><link>https://pjye.github.io/%E5%AF%BB%E6%9D%8E%E7%99%BD/</link><pubDate>Mon, 22 May 2023 23:39:11 +0800</pubDate><guid>https://pjye.github.io/%E5%AF%BB%E6%9D%8E%E7%99%BD/</guid><description>作者：余光中
+所以正如老生常谈：我们能做的，就是把握当下。正如《被讨厌的勇气》所说的，如果把人生比作爬山的过程，我们除了一路攀登前行，也不应错过路上的风景，山下的乔木、山腰的灌木、往上的草甸，还有蓝天和新鲜的空气，不然只盯着山顶，当我们终于到达时，才发现上面是冰天雪地、荒无人烟。当下的即是最好。把握好当下，所有的遗憾与缺失，将成为人生历程中的风景。</description></item><item><title>寻李白</title><link>https://pjye.github.io/poetry/%E5%AF%BB%E6%9D%8E%E7%99%BD/</link><pubDate>Mon, 22 May 2023 23:39:11 +0800</pubDate><guid>https://pjye.github.io/poetry/%E5%AF%BB%E6%9D%8E%E7%99%BD/</guid><description>作者：余光中
 那一双傲慢的靴子至今还落在
 高力士羞愤的手里，人却不见了
 把满地的难民和伤兵
@@ -289,7 +289,7 @@ Don&amp;rsquo;t underestimate the value of doing nothing, of just going along, l
 只消把酒杯向半空一扔
 便旋成一只霍霍的飞碟
 诡绿的闪光愈转愈快
-接你回传说里去</description></item><item><title>愧疚</title><link>https://pjye.github.io/%E6%84%A7%E7%96%9A/</link><pubDate>Sat, 20 May 2023 21:07:59 +0800</pubDate><guid>https://pjye.github.io/%E6%84%A7%E7%96%9A/</guid><description>作者：博尔赫斯
+接你回传说里去</description></item><item><title>愧疚</title><link>https://pjye.github.io/poetry/%E6%84%A7%E7%96%9A/</link><pubDate>Sat, 20 May 2023 21:07:59 +0800</pubDate><guid>https://pjye.github.io/poetry/%E6%84%A7%E7%96%9A/</guid><description>作者：博尔赫斯
 我犯了一个人所能犯的最大的过错。
 我未曾能够得到幸福。
 但愿那无情的忘却冰川
@@ -303,7 +303,7 @@ Don&amp;rsquo;t underestimate the value of doing nothing, of just going along, l
 编造着毫无意义的作品。
 他们给了我胆识，我却没有成为勇敢的人。
 生而不幸的阴影不肯弃我而消散，
-一直在我的身边与我相伴。</description></item><item><title>等你，在雨中</title><link>https://pjye.github.io/%E7%AD%89%E4%BD%A0%E5%9C%A8%E9%9B%A8%E4%B8%AD/</link><pubDate>Tue, 02 May 2023 02:34:14 +0000</pubDate><guid>https://pjye.github.io/%E7%AD%89%E4%BD%A0%E5%9C%A8%E9%9B%A8%E4%B8%AD/</guid><description>作者: 余光中
+一直在我的身边与我相伴。</description></item><item><title>等你，在雨中</title><link>https://pjye.github.io/poetry/%E7%AD%89%E4%BD%A0%E5%9C%A8%E9%9B%A8%E4%B8%AD/</link><pubDate>Tue, 02 May 2023 02:34:14 +0000</pubDate><guid>https://pjye.github.io/poetry/%E7%AD%89%E4%BD%A0%E5%9C%A8%E9%9B%A8%E4%B8%AD/</guid><description>作者: 余光中
 等你，在雨中，在造虹的雨中
 蝉声沉落，蛙声升起
 一池的红莲如红焰，在雨中
@@ -326,7 +326,7 @@ Don&amp;rsquo;t underestimate the value of doing nothing, of just going along, l
 步雨后的红莲，翩翩，你走来
 像一首小令
 从一则爱情的典故里你走来
-从姜白石的词里，有韵地，你走来</description></item><item><title>灵魂选择自己的侣伴</title><link>https://pjye.github.io/%E7%81%B5%E9%AD%82%E9%80%89%E6%8B%A9%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BE%A3%E4%BC%B4/</link><pubDate>Fri, 28 Apr 2023 23:53:07 +0800</pubDate><guid>https://pjye.github.io/%E7%81%B5%E9%AD%82%E9%80%89%E6%8B%A9%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BE%A3%E4%BC%B4/</guid><description>灵魂选择自己的侣伴 灵魂选择自己的伴侣 ——
+从姜白石的词里，有韵地，你走来</description></item><item><title>灵魂选择自己的侣伴</title><link>https://pjye.github.io/poetry/%E7%81%B5%E9%AD%82%E9%80%89%E6%8B%A9%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BE%A3%E4%BC%B4/</link><pubDate>Fri, 28 Apr 2023 23:53:07 +0800</pubDate><guid>https://pjye.github.io/poetry/%E7%81%B5%E9%AD%82%E9%80%89%E6%8B%A9%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BE%A3%E4%BC%B4/</guid><description>灵魂选择自己的侣伴 灵魂选择自己的伴侣 ——
 然后，把门紧闭 ——
 她神圣的决定 ——
 再不容干预 ——
@@ -346,7 +346,7 @@ To her divine Majority ——
 Present no more ——
 Unmoved－she notes the Chariots－pausing ——
 At her low Gate ——
-Unmoved－an Emperor be kneeling ——</description></item><item><title>镜中</title><link>https://pjye.github.io/%E9%95%9C%E4%B8%AD/</link><pubDate>Wed, 26 Apr 2023 00:01:25 +0800</pubDate><guid>https://pjye.github.io/%E9%95%9C%E4%B8%AD/</guid><description>作者：张枣，《张枣的诗》
+Unmoved－an Emperor be kneeling ——</description></item><item><title>镜中</title><link>https://pjye.github.io/poetry/%E9%95%9C%E4%B8%AD/</link><pubDate>Wed, 26 Apr 2023 00:01:25 +0800</pubDate><guid>https://pjye.github.io/poetry/%E9%95%9C%E4%B8%AD/</guid><description>作者：张枣，《张枣的诗》
 只要想起一生中后悔的事
 梅花便落了下来
 比如看她游泳到河的另一岸
@@ -362,4 +362,4 @@ Unmoved－an Emperor be kneeling ——</description></item><item><title>镜中<
 我每个月大概读3本书，每小时读60页书。比不上比尔·盖茨在一个小时内阅读150页书且记住90%的内容，但我在慢慢接近。
 随着时间的推移，我养成了一定的习惯，这些习惯极大地提高了我的阅读速度并让我能够记得更多。在这里分享以造福社区：
 读同一个领域的多本书以便于深入了解某个领域。这是真正了解某个主题的方式。 在拿起任何书之前，请先对作者有彻底的了解。了解书的主旨和这本书存在的原因。在真正地开始阅读前，我经常先阅读介绍或前言。这些部分介绍了作者以及为什么他们想要写这本书。 你不必强迫自己读完一本你不喜欢的书。你可以在读到某一部分时放下书，当你想要回归阅读某个主题，再拿起来继续。 有一些书比较灵活，可能不合适从前往后线性阅读。这取决于你正在阅读的书的主题。如果这本书是一些不相关的主题的答案集合，则可以只挑选部分的章节进行阅读。例如，我读了一本关于印度草药疗法的书，按照一些基本原理，它是按疾病类型组织的。我可以挑选我感兴趣的疾病来了解更多信息。 每次都记笔记。不要从kindle或手机中复制粘贴笔记，请手动输入每个单词。另外，请尝试解释阅读的内容，这样一来，你就不得不主动思考正在阅读的材料。 快速阅读那些没有必要记忆的部分。大脑缓存有限，有些东西需要保留，有些东西只是丢弃。学会识别书本中需要记忆的部分和可以丢弃的部分。 阅读时，你可能会遇到不太了解的主题。在阅读本书的过程中，请阅读摘要以了解当前内容。分开写下来以便以后研究。在阅读完该领域的一些书之后，或者有时是在本书中间的时候，如果对本书的理解取决于对这一主题的理解，那么我将返回到之前的笔记列表。 在读完了整本书之后写一下摘要。在博客，社交媒体或可能感兴趣的社区中分享摘要和解释性信息。这将让你更广泛地思考本书的主题，而不是深入笔记。 和朋友和家人讨论和推荐这本书。讨论将让你发现同一主题的新观点。推荐会让你成为更好的老师。 通过朋友和他们的书架发现新书。 当然，以上是适用于我的规则，可能不适用于其他所有人。它们不是戒律。
-如果您仅需从上述规则中挑选一条，我将会推荐写作笔记/摘要部分。我认为阅读时记笔记和积极思考比只是读完书本然后忘记给了我更多的知识。</description></item></channel></rss>
+如果您仅需从上述规则中挑选一条，我将会推荐写作笔记/摘要部分。我认为阅读时记笔记和积极思考比只是读完书本然后忘记给了我更多的知识。</description></item><item><title>About</title><link>https://pjye.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pjye.github.io/about/</guid><description>关于我 枫叶，程序员（Java开发工程师），喜欢读书和跑步，有时也打打羽毛球、爬爬山。努力提升自己的技术中，喜欢思考总结一些技术问题；读书很杂，很喜欢诗歌，包括现代诗和古代诗词。最近在尝试写写博客，分享一些技术知识、生活感悟和读过的书籍。</description></item></channel></rss>
